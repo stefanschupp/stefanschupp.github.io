@@ -54,6 +54,24 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
+#profiles:
+#  - icon: at-symbol
+#    url: 'mailto:your-email@example.com'
+#    label: E-mail Me
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
+#  - icon: brands/github
+#    url: https://github.com/gcushen
+#  - icon: brands/linkedin
+#    url: https://www.linkedin.com/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
+
 profiles:
 #- icon: envelope
 #  icon_pack: fas
@@ -61,18 +79,18 @@ profiles:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=hOQPd-wAAAAJ
-- icon: dblp
-  icon_pack: ai
-  link: https://dblp.uni-trier.de/pers/hd/s/Schupp:Stefan
-- icon: github
-  icon_pack: fab
-  link: https://github.com/modass
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/stefan-schupp-097a0859/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=hOQPd-wAAAAJ
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.uni-trier.de/pers/hd/s/Schupp:Stefan
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/modass
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/stefan-schupp-097a0859/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
