@@ -30,7 +30,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focusses on safety verification of hybrid systems, mainly via flowpipe-construction-based reachability analysis. 
+#bio: My research focusses on safety verification of hybrid systems, mainly via flowpipe-construction-based reachability analysis. 
 
 interests:
 - Modeling and analysis of hybrid systems
@@ -72,39 +72,32 @@ education:
 #  - icon: academicons/orcid
 #    url: https://orcid.org/
 
-profiles:
+#profiles:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=hOQPd-wAAAAJ
-  - icon: dblp
-    icon_pack: ai
-    link: https://dblp.uni-trier.de/pers/hd/s/Schupp:Stefan
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/modass
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/stefan-schupp-097a0859/
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=hOQPd-wAAAAJ
+#  - icon: dblp
+#    icon_pack: ai
+#    link: https://dblp.uni-trier.de/pers/hd/s/Schupp:Stefan
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/modass
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/stefan-schupp-097a0859/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
 ---
 
 ## About me
