@@ -3,7 +3,9 @@
 
 title: "HyPro"
 summary: "A Toolbox for the Reachability Analysis of Hybrid Systems using Geometric Approximations"
-authors: []
+authors:
+    - admin
+    - Erika Ábrahám
 tags: []
 categories: []
 date: 2020-03-08T21:59:51+01:00

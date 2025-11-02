@@ -2,7 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "HyPro: A C++ Library of State Set Representations for Hybrid Systems Reachability Analysis"
-authors: [Stefan Schupp, Erika Abraham, Ibtissem Ben Makhlouf, Stefan Kowalewski]
+authors: 
+  - admin 
+  - Erika Abraham
+  - Ibtissem Ben Makhlouf
+  - Stefan Kowalewski
 date: 2017-04-09T21:20:33+01:00
 doi: "10.1007/978-3-319-57288-8_20"
 
