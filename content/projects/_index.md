@@ -18,9 +18,9 @@ sections:
           - projects
     design:
       view: article-grid
-      fill_image: false
-      columns: 3
+      fill_image: yes
+      columns: 1
       show_date: false
-      show_read_time: false
-      show_read_more: false
+      show_read_time: yes
+      show_read_more: yes
 ---
