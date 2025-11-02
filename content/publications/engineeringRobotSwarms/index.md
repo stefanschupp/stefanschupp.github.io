@@ -2,7 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Engineering Controllers for Swarm Robotics Via Reachability Analysis in Hybrid Systems"
-authors: [Francesco Leofante, Stefan Schupp, Erika Ábrahám, Armando Tacchella]
+authors: 
+  - Francesco Leofante
+  - admin
+  - Erika Ábrahám
+  - Armando Tacchella
 date: 2019-06-14T21:20:23+01:00
 doi: "10.7148/2019-0407"
 
@@ -13,7 +17,7 @@ publishDate: 2020-03-08T21:20:23+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""

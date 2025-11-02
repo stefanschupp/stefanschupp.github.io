@@ -2,7 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "SMT-RAT: an Open Source C++ Toolbox for Strategic and Parallel SMT Solving"
-authors: [Florian Corzilius, Gereon Kremer, Sebastian Junges, Stefan Schupp, Erika Ábrahám]
+authors: 
+  - Florian Corzilius
+  - Gereon Kremer
+  - Sebastian Junges
+  - admin
+  - Erika Ábrahám
 date: 2015-09-24T21:47:43+01:00
 doi: "10.1007/978-3-319-24318-4_26"
 
@@ -13,7 +18,7 @@ publishDate: 2020-03-08T21:47:43+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""

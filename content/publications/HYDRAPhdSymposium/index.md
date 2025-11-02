@@ -2,7 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The HyDRA Tool: A Playground for the Development of Hybrid Systems Reachability Analysis Methods"
-authors: [Stefan Schupp, Erika Ábrahám]
+authors: 
+  - admin
+  - Erika Ábrahám
 date: 2018-09-04T21:29:56+01:00
 doi: ""
 
@@ -13,7 +15,7 @@ publishDate: 2020-03-08T21:29:56+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -58,7 +60,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - hypro
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

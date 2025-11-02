@@ -2,7 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Current Challenges in the Verification of Hybrid Systems"
-authors: [Stefan Schupp, Erika Ábraham, Xin Chen, Ibtissem Ben Makhlouf, Goran Frehse, Sriram Sankaranarayanan, Stefan Kowalewski]
+authors: 
+- admin
+- Erika Ábraham
+- Xin Chen
+- Ibtissem Ben Makhlouf
+- Goran Frehse
+- Sriram Sankaranarayanan
+- Stefan Kowalewski
 date: 2015-10-08T21:39:41+01:00
 doi: "10.1007/978-3-319-25141-7_2"
 
@@ -58,7 +65,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - hypro
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

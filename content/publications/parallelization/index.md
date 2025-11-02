@@ -2,7 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Spread the Work: Multi-threaded Safety Analysis for Hybrid Systems"
-authors: [Stefan Schupp, Erika Ábrahám]
+authors: 
+  - admin
+  - Erika Ábrahám
 date: 2018-05-30T21:11:11+01:00
 doi: "10.1007/978-3-319-92970-5_6"
 
@@ -13,11 +15,11 @@ publishDate: 2020-03-08T21:11:11+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Sorftware Engineering for Formal Methods"
+publication_short: "SEFM"
 
 abstract: ""
 

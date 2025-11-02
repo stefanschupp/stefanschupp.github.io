@@ -30,7 +30,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -62,7 +62,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - hypro
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
