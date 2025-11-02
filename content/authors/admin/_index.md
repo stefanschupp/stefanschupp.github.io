@@ -41,8 +41,7 @@ profiles:
     url: https://scholar.google.com/citations?user=hOQPd-wAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-2055-7581
-  - icon: dblp
-    icon_pack: ai
+  - icon: academicons/dblp
     link: https://dblp.uni-trier.de/pers/hd/s/Schupp:Stefan
 
 interests:
