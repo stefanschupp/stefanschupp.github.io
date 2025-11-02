@@ -79,7 +79,7 @@ education:
     institution: RWTH Aachen University
     icon: ""
     date_start: 2007-10-01
-    date_end: 2011-09-31
+    date_end: 2011-09-30
     summary: |
       Thesis: “Using Quorum Schemes for Neighbor Discovery in Wireless Sensor Networking”
 
