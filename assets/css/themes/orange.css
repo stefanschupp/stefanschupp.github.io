@@ -1,0 +1,27 @@
+/* Hugo Blox color theme: ORANGE */
+:root {
+  /* Orange Primary Palette */
+  --hb-primary-50-rgb: 252 243 237;
+  --hb-primary-100-rgb: 245 219 201;
+  --hb-primary-200-rgb: 233 170 129;
+  --hb-primary-300-rgb: 226 146 92;
+  --hb-primary-400-rgb: 220 122 56;
+  --hb-primary-500-rgb: 199 100 35;
+  --hb-primary-600-rgb: 163 82 29;
+  --hb-primary-700-rgb: 126 64 22;
+  --hb-primary-800-rgb: 54 27 10;
+  --hb-primary-900-rgb: 54 27 10;
+  --hb-primary-950-rgb: 18 9 3;
+  /* Orange Secondary Palette */
+  --hb-secondary-50-rgb: 240 253 250;
+  --hb-secondary-100-rgb: 204 251 241;
+  --hb-secondary-200-rgb: 153 246 228;
+  --hb-secondary-300-rgb: 94 234 212;
+  --hb-secondary-400-rgb: 45 212 191;
+  --hb-secondary-500-rgb: 20 184 166;
+  --hb-secondary-600-rgb: 13 148 136;
+  --hb-secondary-700-rgb: 15 118 110;
+  --hb-secondary-800-rgb: 17 94 89;
+  --hb-secondary-900-rgb: 19 78 74;
+  --hb-secondary-950-rgb: 4 47 46;
+}
