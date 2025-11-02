@@ -10,7 +10,7 @@ first_name: Stefan
 last_name: Schupp
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 status:
@@ -38,44 +38,53 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/stefan-schupp/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=hOQPd-wAAAAJ&hl=de
+    url: https://scholar.google.com/citations?user=hOQPd-wAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-2055-7581
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.uni-trier.de/pers/hd/s/Schupp:Stefan
 
 interests:
-  - Formal Verification
-  - Hybrid Systems
-  - SMT Solving
+  - Formal verification
+  - Modeling and analysis of hybrid systems
+  - Reachability analysis
+  - Flowpipe construction
+  - SMT solving
 
 education:
   - area: PhD Computer Science
     institution: RWTH Aachen University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2013-03-01
+    date_end: 2019-10-01
     summary: |
-      Some summary, tbd.
+      Thesis: “State Set Representations and their Application in Hybrid Systems Reachability Analysis”
+
+      Supervisors: Erika Ábrahám, Goran Frehse
     button:
       text: 'Read Thesis'
       url: 'https://publications.rwth-aachen.de/record/767529'
   - area: MS Computer Science
     institution: RWTH Aachen University
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2011-10-01
+    date_end: 2013-03-31
     summary: |
-      GPA: 4.0/4.0
+      Thesis: “Using Interval Constraint Propagation in SMT reliant Decision Procedures”
 
-      Specialized in machine learning and robotics.
+      Focus on: Theoretical computer science: software modeling and verification, hybrid systems and SMT solving.
+      Elective: Mechanical engineering
   - area: BS Computer Science
     institution: RWTH Aachen University
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2007-10-01
+    date_end: 2011-09-31
     summary: |
-      GPA: 3.9/4.0
+      Thesis: “Using Quorum Schemes for Neighbor Discovery in Wireless Sensor Networking”
 
-      Minored in Mathematics. President of AI Club.
+      Focus on: Sensor networks, automata theory
+      Elective: Mechanical engineering
 
 work:
   - position: Formal Verification Engineer
@@ -86,6 +95,30 @@ work:
     date_end: ''
     summary: |2-
       Formal verification in the Hardware Tech Group at Apple.
+  - position: Post Doctoral Researcher
+    company_name: TU Wien, CPS Research Group
+    company_url: 'https://informatics.tuwien.ac.at/orgs/e191-01'
+    icon: ''
+    date_start: 2021-02-01
+    date_end: 2023-07-31
+    summary: |2-
+      Analysis and verification of (stochastic) hybrid systems (with WWU Münster), controller verification in Simplex architectures (with TU Graz), statistical model checking for hyperproperties (with Michigan State University).
+  - position: Post Doctoral Researcher
+    company_name: WWU Münster, AG Sicherheitskritische Systems
+    company_url: 'https://www.uni-muenster.de/Informatik.AGRemke/en/index.html'
+    icon: ''
+    date_start: 2020-08-01
+    date_end: 2021-01-31
+    summary: |2-
+      Analysis and Verification of Stochastic Hybrid Systems. This involved: Independent lead of the tool development on reachability analysis of stochastic hybrid systems.
+  - position: Post Doctoral Researcher
+    company_name: RWTH Aachen University, Theory of Hybrid Systems
+    company_url: 'https://ths.rwth-aachen.de/'
+    icon: ''
+    date_start: 2019-11-01
+    date_end: 2020-07-31
+    summary: |2-
+      Modeling and Verification of Hybrid Systems. This involved: industrial cooperation with Ford Motor Company on the analysis of software tools for hybrid systems verification in the automotive sector.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -120,4 +153,4 @@ languages:
 
 ---
 
-Stefan definitely needs to write some text here.
+My research focusses on safety verification of hybrid systems, mainly via flowpipe-construction-based reachability analysis. 

@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -28,13 +28,13 @@ sections:
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        shape: rounded # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Some of my research. TBD.
+        My research focusses on safety verification of hybrid systems, mainly via flowpipe-construction-based reachability analysis. 
     design:
       columns: '1'
   - block: collection
