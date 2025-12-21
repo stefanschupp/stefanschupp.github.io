@@ -7,7 +7,7 @@ authors:
   - Thomas Rambow
   - Zeng Qiu
 publication_types: ["journal"]
-publication: ""
+publication: "International Journal on Software Tools for Technology Transfer"
 summary: ""
 abstract: "Traditionally, extensive vehicle testing is applied to assure the robustness and safety of automotive systems. This approach is highly challenged by increasing system complexity. Formal verification lends a powerful framework for model-based safety assurance, but due to the mixed discrete–continuous behavior of automotive systems, traditional tools for discrete program verification are helpful but not sufficient.
 

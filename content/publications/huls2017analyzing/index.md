@@ -5,7 +5,7 @@ authors:
   - admin
   - Anne Remke
   - Erika Ábrahám
-publication_types: ["conference"]
+publication_types: ["Conference paper"]
 publication: "Proceedings of the 11th EAI International Conference on Performance Evaluation Methodologies and Tools"
 summary: ""
 abstract: ""
@@ -15,4 +15,6 @@ pages: "178--185"
 hugoblox:
     ids:
         doi: "10.1145/3150928.3150938"
+
+abstract: "Two approaches have been presented for the analysis of HPnGs, (i) a tree-based approach and (ii) a state-space representation based on computational geometry. We present a translation of the tree-based representation into a geometric representation using the C++ library HyPro, which has been developed for the analysis of hybrid automata. This allows the representation and efficient and accurate analysis of HPnGs with multiple stochastic firings."
 ---

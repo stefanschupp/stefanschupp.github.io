@@ -219,15 +219,6 @@ The tool is publicly available at https://github.com/morxa/tacos.}
   journaltitle = {arXiv preprint arXiv:2402.03164},
 }
 
-@InProceedings{huls2017analyzing,
-  author    = {Hüls, Jannik and Schupp, Stefan and Remke, Anne and Ábrahám, Erika},
-  booktitle = {Proceedings of the 11th EAI International Conference on Performance Evaluation Methodologies and Tools},
-  title     = {Analyzing Hybrid Petri Nets with Multiple Stochastic Firings Using Hypro},
-  pages     = {178--185},
-  year      = {2017},
-  doi       = {10.1145/3150928.3150938},
-}
-
 @InProceedings{leofante2019engineering,
   author    = {Leofante, Francesco and Schupp, Stefan and Ábrahám, Erika and Tacchella, Armando},
   booktitle = {ECMS},
@@ -315,22 +306,9 @@ Our offline and online verification relies upon reachability analysis, since it 
   UT           = {WOS:000373821000002},
   doi          = {10.1007/978-3-319-25141-7_2},
   url          = {http://publications.rwth-aachen.de/record/564375},
+  abstract     = {Latest developments brought interesting theoretical results and powerful tools for the reachability analysis of hybrid systems. However, there are still challenging problems to be solved in order to make those technologies applicable to large-scale applications in industrial context. To support this development, in this paper we give a brief overview of available algorithms and tools, and point out some of their individual characteristics regarding various properties which are crucial for the verification of hybrid systems. We present exemplary evaluations on three benchmarks to motivate the need for further development and discuss some of the main challenges for future research in this area.}
 }
 
-
-@Article{schupp2022recent,
-  author       = {Schupp, Stefan and Ábrahám, Erika and Ebert, Tristan},
-  title        = {Recent Developments in Theory and Tool Support for Hybrid Systems Verification with Hypro},
-  pages        = {104945},
-  volume       = {289},
-  year         = {2022},
-  doi          = {10.1016/j.ic.2022.104945},
-  journaltitle = {Information and Computation},
-  publisher    = {Academic Press},
-  abstract     = {Over the last decades, the development of algorithms and tools for the safety verification of hybrid systems has been content of intensive research. Numerous novel ideas have been presented and implemented in different tools. Whereas the majority of these tools offer fixed implementations, only few general libraries have been provided for the development of new verification tools.
-HyPro is such an example, providing a C++ programming library for the implementation of certain types of reachability analysis algorithms for linear hybrid systems. These algorithms, based on flowpipe construction, need geometric or symbolic representation for state sets of hybrid systems. HyPro offers datatypes for different representations, conversions between them, and efficient algorithms based on these datatypes.
-Since its release in 2017, HyPro's functionalities have been extended by several implementations. In this paper we give a general introduction to flowpipe-construction-based methods and report on HyPro's functional advances as well as on applications of the library.}  
-}
 
 @Article{schupp2022robot,
   author       = {Schupp, Stefan and Leofante, Francesco and Behr, Leander and Ábrahám, Erika and Taccella, Armando},
@@ -339,21 +317,4 @@ Since its release in 2017, HyPro's functionalities have been extended by several
   doi          = {10.4204/EPTCS.361.7},
   journaltitle = {arXiv preprint arXiv:2207.06758},
   abstract     = {A swarm robotic system consists of a team of robots performing cooperative tasks without any centralized coordination. In principle, swarms enable flexible and scalable solutions; however, designing individual control algorithms that can guarantee a required global behavior is difficult. Formal methods have been suggested by several researchers as a mean to increase confidence in the behavior of the swarm. In this work, we propose to model swarms as hybrid systems and use reachability analysis to verify their properties. We discuss challenges and report on the experience gained from applying hybrid formalisms to the verification of a swarm robotic system.}
-}
-
-@Article{schupp2024applicability,
-  author       = {Schupp, Stefan and Ábrahám, Erika and Waez, Md Tawhid Bin and Rambow, Thomas and Qiu, Zeng},
-  title        = {On the Applicability of Hybrid Systems Safety Verification Tools from the Automotive Perspective},
-  number       = {1},
-  pages        = {49--78},
-  volume       = {26},
-  year         = {2024},
-  doi          = {10.1007/s10009-023-00707-0},
-  journaltitle = {International Journal on Software Tools for Technology Transfer},
-  publisher    = {Springer Berlin Heidelberg Berlin/Heidelberg},
-  abstract     = {Traditionally, extensive vehicle testing is applied to assure the robustness and safety of automotive systems. This approach is highly challenged by increasing system complexity. Formal verification lends a powerful framework for model-based safety assurance, but due to the mixed discrete–continuous behavior of automotive systems, traditional tools for discrete program verification are helpful but not sufficient.
-
-In academia, during the last two decades new approaches arose for the formal verification of such mixed discrete-continuous systems. However, the industry is not fully aware of this development, the tools are seldom tried and their applicability is not well examined. In a Ford–RWTH research alliance project, we aimed at evaluating the potential of knowledge and technology transfer in this area.
-
-This paper has two main objectives. Firstly, we want to report on the state-of-the-art in the above-mentioned academic development in a generally understandable form, targeted to interested potential users. Secondly, we want to share our observations after testing different available tools for their applicability and usability in the automotive sector and as a conclusion devise some recommendations.}
 }
