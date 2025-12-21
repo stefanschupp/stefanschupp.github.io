@@ -1,9 +1,40 @@
-@InProceedings{schupp2018spread,
-  author       = {Schupp, Stefan and Ábrahám, Erika},
-  booktitle    = {International Conference on Software Engineering and Formal Methods},
-  title        = {Spread the Work: Multi-Threaded Safety Analysis for Hybrid Systems},
-  organization = {Springer International Publishing Cham},
-  pages        = {89--104},
-  year         = {2018},
-  doi          = {10.1007/978-3-319-92970-5_6},
+@INPROCEEDINGS{Schupp:741983,
+      author       = {Schupp, Stefan and Ábrahám, Erika},
+      title        = {{S}pread the {W}ork : {M}ulti-threaded {S}afety {A}nalysis
+                      for {H}ybrid {S}ystems},
+      volume       = {10886},
+      address      = {Cham},
+      publisher    = {Springer International Publishing},
+      reportid     = {RWTH-2018-228718},
+      series       = {Lecture Notes in Computer Science},
+      pages        = {89-104},
+      year         = {2018},
+      note         = {Weitere Reihe: Springer eBook Collection : Computer
+                      Science},
+      comment      = {Software Engineering and Formal Methods : 16th
+                      International Conference, SEFM 2018, Held as Part of STAF
+                      2018, Toulouse, France, June 27-29, 2018, Proceedings /
+                      edited by Einar Broch Johnsen, Ina Schaefer},
+      booktitle     = {Software Engineering and Formal
+                       Methods : 16th International
+                       Conference, SEFM 2018, Held as Part of
+                       STAF 2018, Toulouse, France, June
+                       27-29, 2018, Proceedings / edited by
+                       Einar Broch Johnsen, Ina Schaefer},
+      month         = {Jun},
+      date          = {2018-06-25},
+      organization  = {16th International Conference on
+                       Software Engineering and Formal
+                       Methods, Toulouse (France), 25 Jun 2018
+                       - 29 Jun 2018},
+      cin          = {123420 / 120000 / 121310 / 080060},
+      cid          = {$I:(DE-82)123420_20140620$ / $I:(DE-82)120000_20140620$ /
+                      $I:(DE-82)121310_20140620$ / $I:(DE-82)080060_20170720$},
+      typ          = {PUB:(DE-HGF)7 / PUB:(DE-HGF)8},
+      UT           = {WOS:000445248600006},
+      doi          = {10.1007/978-3-319-92970-5_6},
+      url          = {http://publications.rwth-aachen.de/record/741983},
+      abstract     = {We consider a method for the bounded safety analysis of hybrid systems, whose continuous behaviour is intertwined with discrete execution steps. The method computes a tree of state sets, which together over-approximate reachability by bounded-length executions. If none of the state sets intersects with a given set of unsafe states then we have proven bounded safety. Otherwise, we iteratively repeat parts of the computations with locally refined search parameters, in order to reduce the over-approximation error.
+
+In this paper we present a parallelization technique for the above method. We identify independent computations that can be carried out by different threads/processes concurrently, and examine how to achieve work-balance between the threads at low communication cost. Furthermore, we discuss how to assure mutually exclusive node access during refinement computations, without high synchronization costs. We evaluate our proposed solutions experimentally on some benchmarks.}
 }

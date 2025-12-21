@@ -77,16 +77,43 @@
   pages        = {408--414},
   year         = {2015},
   doi          = {10.1007/978-3-319-17524-9_29},
+  abstract     = {Since about two decades, formal methods for continuous and hybrid systems enjoy increasing interest in the research community. A wide range of analysis techniques were developed and implemented in powerful tools. However, the lack of appropriate benchmarks make the testing, evaluation and comparison of those tools difficult. To support these processes and to ease exchange and repeatability, we present a manifold benchmark suite for the reachability analysis of hybrid systems. Detailed model descriptions, classification schemes, and experimental evaluations help to find the right models for a given purpose.}
 }
 
 @InProceedings{corzilius2015smt,
   author       = {Corzilius, Florian and Kremer, Gereon and Junges, Sebastian and Schupp, Stefan and Ábrahám, Erika},
-  booktitle    = {International conference on theory and applications of satisfiability testing},
   title        = {Smt-Rat: An Open Source C++ Toolbox for Strategic and Parallel Smt Solving},
-  organization = {Springer International Publishing Cham},
-  pages        = {360--368},
+  volume       = {9340},
+  address      = {Cham},
+  publisher    = {Springer International Publishing},
+  reportid     = {RWTH-2015-06984},
+  series       = {Lecture Notes in Computer Science},
+  pages        = {360-368},
   year         = {2015},
+  comment      = {Theory and Applications of Satisfiability Testing : SAT
+                  2015 ; 18th International Conference, Austin, TX, USA,
+                  September 24-27, 2015, Proceedings / Marijn Heule ; Sean
+                  Weaver [Hrsg.]},
+  booktitle     = {Theory and Applications of
+                    Satisfiability Testing : SAT 2015 ;
+                    18th International Conference, Austin,
+                    TX, USA, September 24-27, 2015,
+                    Proceedings / Marijn Heule ; Sean
+                    Weaver [Hrsg.]},
+  month         = {Sep},
+  date          = {2015-09-24},
+  organization  = {International Conference on Theory and
+                    Applications of Satisfiability Testing,
+                    Austin, Tex. (USA), 24 Sep 2015 - 27
+                    Sep 2015},
+  cin          = {120000 / 123420 / 121330},
+  ddc          = {004},
+  cid          = {$I:(DE-82)120000_20140620$ / $I:(DE-82)123420_20140620$ /
+                  $I:(DE-82)121330_20140620$},
+  typ          = {PUB:(DE-HGF)7 / PUB:(DE-HGF)8},
+  UT           = {WOS:000366019600026},
   doi          = {10.1007/978-3-319-24318-4_26},
+  url          = {http://publications.rwth-aachen.de/record/561680},
 }
 
 @Article{da2023optimizing,
@@ -109,6 +136,7 @@
   pages        = {164--182},
   year         = {2023},
   doi          = {10.1007/978-3-031-35257-7_10},
+  abstract     = {This paper proposes an algorithm to maximize reachability probabilities for rectangular automata with random clocks via a history-dependent prophetic scheduler. This model class incorporates time-induced nondeterminism on discrete behavior and nondeterminism in the dynamic behavior. After computing reachable state sets via a forward flowpipe construction, we use backward refinement to compute maximum reachability probabilities. The feasibility of the presented approach is illustrated on a scalable model.}
 }
 
 @InProceedings{delicaris2023realyst,
@@ -119,6 +147,7 @@
   pages        = {170--182},
   year         = {2023},
   doi          = {10.1007/978-3-031-48885-6_11},
+  abstract    = {This paper presents the open-source C++ tool RealySt for effectively computing optimal time-bounded reachability probabilities for subclasses of hybrid automata extended with random clocks. The tool explicitly resolves the underlying nondeterminism and computes reachable state sets exactly. The error of the computed results solely stems from the multi-dimensional integration. The architecture of RealySt is extensible and allows to easily integrate other classes of hybrid automata extended by random clocks. RealySt relies on the HyPro library to perform flowpipe construction, and on GSL for multi-dimensional integration.}
 }
 
 @Article{delicaris2025maximizing,
@@ -140,6 +169,7 @@
   pages        = {3--25},
   year         = {2023},
   doi          = {10.1007/978-3-031-45332-8_1},
+  abstract     = {Hyperproperties have been widely used to express system properties like noninterference, observational determinism, conformance, robustness, etc. However, the model checking problem for hyperproperties is challenging due to its inherent complexity of verifying properties across sets of traces and suffers from scalability issues. Previously, statistical approaches have proven effective in tackling the scalability of model checking for temporal logic. In this work, we have attempted to combine these two concepts to propose a tractable solution to model checking of hyperproperties expressed as HyperLTL on models involving nondeterminism. We have implemented our approach in PLASMA and experimented with a range of case studies to showcase its effectiveness.}
 }
 
 @InProceedings{freiberger2021controller,
@@ -159,6 +189,9 @@
   pages        = {372--379},
   year         = {2021},
   doi          = {10.1007/978-3-030-92124-8_21},
+  abstract     = {We introduce TACoS, a tool for synthesizing controllers satisfying MTL specifications of undesired behavior with timing constraints. Our contribution extends an existing theoretical approach towards practical applications. The most notable features include: Online labeling to terminate early if a solution has been found, heuristic search to expand the most promising nodes first, search graph pruning to reduce the problem size by pruning irrelevant parts of the search graph, and reusing previously explored search nodes to further reduce the search graph. Finally, multi-threading support allows to make use of modern CPUs with many parallel threads. TACoS comes with a C++ library with minimal external dependencies and simple-to-use API. We evaluate our approach on a number of scenarios and investigate how each of the enhancements improves the performance.
+
+The tool is publicly available at https://github.com/morxa/tacos.}
 }
 
 @Article{hofmann2022controlling,
@@ -204,14 +237,6 @@
   doi       = {10.7148/2019-0407},
 }
 
-@InProceedings{link2011perfect,
-  author    = {Link, Jo Agila Bitsch and Wollgarten, Christoph and Schupp, Stefan and Wehrle, Klaus},
-  booktitle = {Proceedings of the 3rd Extreme Conference on Communication: The Amazon Expedition},
-  title     = {Perfect Difference Sets for Neighbor Discovery: Energy Efficient and Fair},
-  pages     = {1--6},
-  year      = {2011},
-  doi       = {10.1145/2414393.2414398},
-}
 
 @InProceedings{maderbacher2023provable,
   author       = {Maderbacher, Benedikt and Schupp, Stefan and Bartocci, Ezio and Bloem, Roderick and Nickovic, Dejan and Könighofer, Bettina},
@@ -221,6 +246,9 @@
   pages        = {141--160},
   year         = {2023},
   doi          = {10.1007/978-3-031-32157-3_8},
+  abstract     = {We propose an approach to synthesize Simplex architectures that are provably correct for a rich class of temporal specifications, and are high-performant by optimizing for the time the advanced controller is active. We achieve provable correctness by performing a static verification of the baseline controller. The result of this verification is a set of states which is proven to be safe, called the recoverable region. During runtime, our Simplex architecture adapts towards a running advanced controller by exploiting proof-on-demand techniques. Verification of hybrid systems is often overly conservative, resulting in over-conservative recoverable regions that cause unnecessary switches to the baseline controller. To avoid these switches, we invoke targeted reachability queries to extend the recoverable region at runtime.
+
+Our offline and online verification relies upon reachability analysis, since it allows observation-based extension of the known recoverable region. However, detecting fix-points for bounded liveness properties is a challenging task for most hybrid system reachability analysis tools. We present several optimizations for efficient fix-point computations that we implemented in the state-of-the-art tool HyPro that allowed us to automatically synthesize verified and performant Simplex architectures for advanced case studies, like safe autonomous driving on a race track.}
 }
 
 @Article{maderbacher2025adaptive,
@@ -229,7 +257,7 @@
   pages        = {1--19},
   year         = {2025},
   doi          = {10.1007/s10009-025-00779-0},
-  
+  abstract     = {Simplex architectures optimize performance and safety by switching between an advanced controller and a base controller. We propose an approach to synthesize the switching logic and extensions of the base controller in the Simplex architectures to achieve high performance and provable correctness for a rich class of temporal specifications by maximizing the time the advanced controller is active. We achieve provable correctness by performing static verification of the baseline controller. The result of this verification is a set of states that is proven to be safe, called the recoverable region. We employ proofs on demand to ensure that the base controller is safe in those states that are visited during runtime, which depends on the advanced controller. Verification of hybrid systems is often overly conservative, resulting in smaller recoverable regions that cause unnecessary switches to the baseline controller. To avoid these switches, we invoke targeted reachability queries to extend the recoverable region at runtime. In case the recoverable region cannot be extended using the baseline controller, we employ a repair procedure. This tries to synthesize a patch for the baseline controller and can further extend the recoverable region. Our offline and online verification relies upon reachability analysis since it allows observation-based extension of the known recoverable region. We implemented our methodology on top of the state-of-the-art tool HyPro which allowed us to automatically synthesize verified and performant Simplex architectures for advanced case studies, like safe autonomous driving on a race track.},
   journaltitle = {International Journal on Software Tools for Technology Transfer},
   publisher    = {Springer Berlin Heidelberg},
 }
@@ -242,6 +270,7 @@
   pages        = {435--456},
   year         = {2021},
   doi          = {10.1007/978-3-030-85172-9_23},
+  abstract     = {Stochastic Hybrid automata (SHA) are increasingly used to evaluate the dependability and safety of critical infrastructures. Nondeterminism, which is present in many purely hybrid models, is often only implicitly considered in SHA. This paper instead proposes algorithms for computing optimal reachability probabilities for singular automata with urgent transitions and random clocks which follow arbitrary continuous probability distributions. We borrow a well-known approach from hybrid systems reachability analysis, namely flowpipe construction. We extract those valuations of random clocks which ensure reachability of specific goal states from the computed flowpipes and compute reachability probabilities by integrating over these valuations. We compute maximal and minimal probabilities for history-dependent prophetic and non-prophetic schedulers using set-based methods. A case study featuring a series of nondeterministic choices shows the feasibility of the approach.}
 }
 
 @Article{schupp2013interval,
@@ -253,68 +282,41 @@
 
 @InProceedings{schupp2015current,
   author       = {Schupp, Stefan and Ábrahám, Erika and Chen, Xin and Ben Makhlouf, Ibtissem and Frehse, Goran and Sankaranarayanan, Sriram and Kowalewski, Stefan},
-  booktitle    = {International workshop on design, modeling, and evaluation of cyber physical systems},
   title        = {Current Challenges in the Verification of Hybrid Systems},
-  organization = {Springer International Publishing Cham},
-  pages        = {8--24},
+  volume       = {9361},
+  address      = {Cham},
+  publisher    = {Springer International Publishing},
+  reportid     = {RWTH-2015-07355},
+  series       = {Lecture Notes in Computer Science},
+  pages        = {8-24},
   year         = {2015},
+  comment      = {Cyber physical systems : design, modeling, and evaluation ;
+                  5th international workshop, CyPhy 2015, Amsterdam, The
+                  Netherlands, October 8, 2015 ; proceedings / Christian
+                  Berger ... (eds.)},
+  booktitle     = {Cyber physical systems : design,
+                    modeling, and evaluation ; 5th
+                    international workshop, CyPhy 2015,
+                    Amsterdam, The Netherlands, October 8,
+                    2015 ; proceedings / Christian Berger
+                    ... (eds.)},
+  month         = {Oct},
+  date          = {2015-10-08},
+  organization  = {5th Workshop on Design, Modeling, and
+                    Evaluation of Cyber Physical Systems,
+                    Amsterdam (Netherlands), 8 Oct 2015 - 8
+                    Oct 2015},
+  cin          = {121310 / 120000 / 123420 / 121330 / 122810},
+  ddc          = {004},
+  cid          = {$I:(DE-82)121310_20140620$ / $I:(DE-82)120000_20140620$ /
+                  $I:(DE-82)123420_20140620$ / $I:(DE-82)121330_20140620$ /
+                  $I:(DE-82)122810_20140620$},
+  typ          = {PUB:(DE-HGF)7 / PUB:(DE-HGF)8},
+  UT           = {WOS:000373821000002},
   doi          = {10.1007/978-3-319-25141-7_2},
+  url          = {http://publications.rwth-aachen.de/record/564375},
 }
 
-@Article{schupp2017divide,
-  author       = {Schupp, Stefan and Nellen, Johanna and Ábrahám, Erika},
-  title        = {Divide and Conquer: Variable Set Separation in Hybrid Systems Reachability Analysis},
-  year         = {2017},
-  doi          = {10.4204/EPTCS.250.1},
-  journaltitle = {arXiv preprint arXiv:1707.04851},
-}
-
-@InProceedings{schupp2017hypro,
-  author       = {Schupp, Stefan and Ábrahám, Erika and Makhlouf, Ibtissem Ben and Kowalewski, Stefan},
-  booktitle    = {NASA Formal Methods Symposium},
-  title        = {Hypro: A C++ Library of State Set Representations for Hybrid Systems Reachability Analysis},
-  organization = {Springer International Publishing Cham},
-  pages        = {288--294},
-  year         = {2017},
-  doi          = {10.1007/978-3-319-57288-8_20},
-}
-
-@InProceedings{schupp2018efficient,
-  author       = {Schupp, Stefan and Ábrahám, Erika},
-  booktitle    = {International Conference on Tools and Algorithms for the Construction and Analysis of Systems},
-  title        = {Efficient Dynamic Error Reduction for Hybrid Systems Reachability Analysis},
-  organization = {Springer International Publishing Cham},
-  pages        = {287--302},
-  year         = {2018},
-  doi          = {10.1007/978-3-319-89963-3_17},
-}
-
-@InProceedings{schupp2018spread,
-  author       = {Schupp, Stefan and Ábrahám, Erika},
-  booktitle    = {International Conference on Software Engineering and Formal Methods},
-  title        = {Spread the Work: Multi-Threaded Safety Analysis for Hybrid Systems},
-  organization = {Springer International Publishing Cham},
-  pages        = {89--104},
-  year         = {2018},
-  doi          = {10.1007/978-3-319-92970-5_6},
-}
-
-@PhdThesis{schupp2019state,
-  author      = {Schupp, Stefan},
-  title       = {State Set Representations and Their Usage in the Reachability Analysis of Hybrid Systems},
-  year        = {2019},
-  institution = {Dissertation, RWTH Aachen University, 2019},
-}
-
-@InCollection{schupp2020context,
-  author    = {Schupp, Stefan and Winkens, Justin and Ábrahám, Erika},
-  booktitle = {Reuse in Intelligent Systems},
-  publisher = {CRC Press},
-  title     = {Context-Dependent Reachability Analysis for Hybrid Systems},
-  pages     = {161--180},
-  year      = {2020},
-  doi       = {10.1201/9781003034971-7},
-}
 
 @Article{schupp2022recent,
   author       = {Schupp, Stefan and Ábrahám, Erika and Ebert, Tristan},
@@ -325,6 +327,9 @@
   doi          = {10.1016/j.ic.2022.104945},
   journaltitle = {Information and Computation},
   publisher    = {Academic Press},
+  abstract     = {Over the last decades, the development of algorithms and tools for the safety verification of hybrid systems has been content of intensive research. Numerous novel ideas have been presented and implemented in different tools. Whereas the majority of these tools offer fixed implementations, only few general libraries have been provided for the development of new verification tools.
+HyPro is such an example, providing a C++ programming library for the implementation of certain types of reachability analysis algorithms for linear hybrid systems. These algorithms, based on flowpipe construction, need geometric or symbolic representation for state sets of hybrid systems. HyPro offers datatypes for different representations, conversions between them, and efficient algorithms based on these datatypes.
+Since its release in 2017, HyPro's functionalities have been extended by several implementations. In this paper we give a general introduction to flowpipe-construction-based methods and report on HyPro's functional advances as well as on applications of the library.}  
 }
 
 @Article{schupp2022robot,
@@ -333,6 +338,7 @@
   year         = {2022},
   doi          = {10.4204/EPTCS.361.7},
   journaltitle = {arXiv preprint arXiv:2207.06758},
+  abstract     = {A swarm robotic system consists of a team of robots performing cooperative tasks without any centralized coordination. In principle, swarms enable flexible and scalable solutions; however, designing individual control algorithms that can guarantee a required global behavior is difficult. Formal methods have been suggested by several researchers as a mean to increase confidence in the behavior of the swarm. In this work, we propose to model swarms as hybrid systems and use reachability analysis to verify their properties. We discuss challenges and report on the experience gained from applying hybrid formalisms to the verification of a swarm robotic system.}
 }
 
 @Article{schupp2024applicability,
@@ -345,4 +351,9 @@
   doi          = {10.1007/s10009-023-00707-0},
   journaltitle = {International Journal on Software Tools for Technology Transfer},
   publisher    = {Springer Berlin Heidelberg Berlin/Heidelberg},
+  abstract     = {Traditionally, extensive vehicle testing is applied to assure the robustness and safety of automotive systems. This approach is highly challenged by increasing system complexity. Formal verification lends a powerful framework for model-based safety assurance, but due to the mixed discrete–continuous behavior of automotive systems, traditional tools for discrete program verification are helpful but not sufficient.
+
+In academia, during the last two decades new approaches arose for the formal verification of such mixed discrete-continuous systems. However, the industry is not fully aware of this development, the tools are seldom tried and their applicability is not well examined. In a Ford–RWTH research alliance project, we aimed at evaluating the potential of knowledge and technology transfer in this area.
+
+This paper has two main objectives. Firstly, we want to report on the state-of-the-art in the above-mentioned academic development in a generally understandable form, targeted to interested potential users. Secondly, we want to share our observations after testing different available tools for their applicability and usability in the automotive sector and as a conclusion devise some recommendations.}
 }
