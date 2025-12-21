@@ -377,6 +377,7 @@ abstract: "{abstract}"
     
     if year:
         md_content += f'publishDate: "{year}-01-01T00:00:00Z"\n'
+        md_content += f'year: "{year}"\n'
     if date:
         md_content += f'date: "{date}"\n'
 

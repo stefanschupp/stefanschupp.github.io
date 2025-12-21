@@ -16,7 +16,8 @@ publication_types: ["book-chapter"]
 publication: "International TOOLympics Challenge"
 summary: ""
 abstract: ""
-date: "2023"
+publishDate: "2023-01-01T00:00:00Z"
+year: "2023"
 pages: "1--37"
 hugoblox:
     ids:

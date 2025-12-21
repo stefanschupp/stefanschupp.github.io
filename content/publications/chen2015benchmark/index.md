@@ -11,7 +11,8 @@ publication_types: ["conference"]
 publication: "NASA Formal Methods Symposium"
 summary: ""
 abstract: ""
-date: "2015"
+publishDate: "2015-01-01T00:00:00Z"
+year: "2015"
 pages: "408--414"
 hugoblox:
     ids:

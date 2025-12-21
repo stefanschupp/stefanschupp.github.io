@@ -8,7 +8,8 @@ publication_types: ["book-chapter"]
 publication: "Reuse in Intelligent Systems"
 summary: ""
 abstract: ""
-date: "2020"
+publishDate: "2020-01-01T00:00:00Z"
+year: "2020"
 pages: "161--180"
 hugoblox:
     ids:

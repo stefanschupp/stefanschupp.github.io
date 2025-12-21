@@ -7,7 +7,8 @@ publication_types: ["conference"]
 publication: "International Conference on Software Engineering and Formal Methods"
 summary: ""
 abstract: ""
-date: "2018"
+publishDate: "2018-01-01T00:00:00Z"
+year: "2018"
 pages: "89--104"
 hugoblox:
     ids:

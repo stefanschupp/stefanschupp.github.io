@@ -9,7 +9,8 @@ publication_types: ["conference"]
 publication: "Proceedings of the 3rd Extreme Conference on Communication: The Amazon Expedition"
 summary: ""
 abstract: ""
-date: "2011"
+publishDate: "2011-01-01T00:00:00Z"
+year: "2011"
 pages: "1--6"
 hugoblox:
     ids:

@@ -16,5 +16,6 @@ publication_types: ["journal"]
 publication: ""
 summary: ""
 abstract: ""
-date: "2020"
+publishDate: "2020-01-01T00:00:00Z"
+year: "2020"
 ---

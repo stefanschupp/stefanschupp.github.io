@@ -8,7 +8,8 @@ publication_types: ["journal"]
 publication: ""
 summary: ""
 abstract: ""
-date: "2022"
+publishDate: "2022-01-01T00:00:00Z"
+year: "2022"
 volume: "289"
 pages: "104945"
 hugoblox:

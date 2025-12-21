@@ -6,5 +6,6 @@ publication_types: ["thesis"]
 publication: ""
 summary: ""
 abstract: ""
-date: "2019"
+publishDate: "2019-01-01T00:00:00Z"
+year: "2019"
 ---

@@ -8,7 +8,8 @@ publication_types: ["conference"]
 publication: "International Conference on Quantitative Evaluation of Systems"
 summary: ""
 abstract: ""
-date: "2021"
+publishDate: "2021-01-01T00:00:00Z"
+year: "2021"
 pages: "435--456"
 hugoblox:
     ids:

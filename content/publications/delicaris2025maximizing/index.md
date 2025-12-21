@@ -10,7 +10,8 @@ publication_types: ["journal"]
 publication: ""
 summary: ""
 abstract: ""
-date: "2025"
+publishDate: "2025-01-01T00:00:00Z"
+year: "2025"
 volume: "240"
 pages: "103213"
 hugoblox:

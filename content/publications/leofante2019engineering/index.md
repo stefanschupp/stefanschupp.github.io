@@ -9,7 +9,8 @@ publication_types: ["conference"]
 publication: "ECMS"
 summary: ""
 abstract: ""
-date: "2019"
+publishDate: "2019-01-01T00:00:00Z"
+year: "2019"
 pages: "407--413"
 hugoblox:
     ids:

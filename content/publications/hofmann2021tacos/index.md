@@ -7,7 +7,8 @@ publication_types: ["conference"]
 publication: "International Conference on Software Engineering and Formal Methods"
 summary: ""
 abstract: ""
-date: "2021"
+publishDate: "2021-01-01T00:00:00Z"
+year: "2021"
 pages: "372--379"
 hugoblox:
     ids:

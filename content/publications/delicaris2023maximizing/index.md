@@ -9,7 +9,8 @@ publication_types: ["conference"]
 publication: "International Symposium on Theoretical Aspects of Software Engineering"
 summary: ""
 abstract: ""
-date: "2023"
+publishDate: "2023-01-01T00:00:00Z"
+year: "2023"
 pages: "164--182"
 hugoblox:
     ids:

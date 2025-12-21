@@ -16,7 +16,8 @@ publication_types: ["conference"]
 publication: "10th International Workshop on Applied Verification of Continuous and Hybrid Systems, ARCH 2023"
 summary: ""
 abstract: ""
-date: "2023"
+publishDate: "2023-01-01T00:00:00Z"
+year: "2023"
 pages: "126--150"
 hugoblox:
     ids:

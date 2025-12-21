@@ -12,7 +12,8 @@ publication_types: ["conference"]
 publication: "International Symposium on Automated Technology for Verification and Analysis"
 summary: ""
 abstract: ""
-date: "2023"
+publishDate: "2023-01-01T00:00:00Z"
+year: "2023"
 pages: "3--25"
 hugoblox:
     ids:

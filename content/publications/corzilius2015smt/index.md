@@ -10,7 +10,8 @@ publication_types: ["conference"]
 publication: "International conference on theory and applications of satisfiability testing"
 summary: ""
 abstract: ""
-date: "2015"
+publishDate: "2015-01-01T00:00:00Z"
+year: "2015"
 pages: "360--368"
 hugoblox:
     ids:

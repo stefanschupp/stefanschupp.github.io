@@ -9,5 +9,6 @@ publication_types: ["journal"]
 publication: ""
 summary: ""
 abstract: ""
-date: "2013"
+publishDate: "2013-01-01T00:00:00Z"
+year: "2013"
 ---

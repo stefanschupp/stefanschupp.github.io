@@ -9,7 +9,8 @@ publication_types: ["conference"]
 publication: "Proceedings of the 11th EAI International Conference on Performance Evaluation Methodologies and Tools"
 summary: ""
 abstract: ""
-date: "2017"
+publishDate: "2017-01-01T00:00:00Z"
+year: "2017"
 pages: "178--185"
 hugoblox:
     ids:

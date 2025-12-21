@@ -12,7 +12,8 @@ publication_types: ["conference"]
 publication: "International workshop on design, modeling, and evaluation of cyber physical systems"
 summary: ""
 abstract: ""
-date: "2015"
+publishDate: "2015-01-01T00:00:00Z"
+year: "2015"
 pages: "8--24"
 hugoblox:
     ids:
