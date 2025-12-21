@@ -152,4 +152,4 @@ languages:
 
 ---
 
-My research focusses on safety verification of hybrid systems, mainly via flowpipe-construction-based reachability analysis. 
+Strong interest in formal verification across the board, be it pushing boundaries for hybrid or stochastic hybrid systems, investigating & applying techniques for hardware verification or discussing and learning about further directions, techniques and fields were formal verification shines.
