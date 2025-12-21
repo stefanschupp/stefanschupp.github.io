@@ -7,12 +7,13 @@ authors:
   - Erika Ábrahám,
   - Goran Frehse,
   - Stefan Kowalewski
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["conference"]
 publication: "NASA Formal Methods Symposium"
 summary: ""
 abstract: ""
+date: "2015"
 pages: "408--414"
-doi: "10.1007/978-3-319-17524-9_29"
+hugoblox:
+    ids:
+        doi: "10.1007/978-3-319-17524-9_29"
 ---

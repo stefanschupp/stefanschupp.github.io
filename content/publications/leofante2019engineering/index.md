@@ -5,12 +5,13 @@ authors:
   - admin,
   - Erika Ábrahám,
   - Armando Tacchella
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["conference"]
 publication: "ECMS"
 summary: ""
 abstract: ""
+date: "2019"
 pages: "407--413"
-doi: "10.7148/2019-0407"
+hugoblox:
+    ids:
+        doi: "10.7148/2019-0407"
 ---

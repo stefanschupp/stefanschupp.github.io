@@ -5,12 +5,13 @@ authors:
   - Jonas Stübbe,
   - admin,
   - Anne Remke
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["conference"]
 publication: "EAI International Conference on Performance Evaluation Methodologies and Tools"
 summary: ""
 abstract: ""
+date: "2023"
 pages: "170--182"
-doi: "10.1007/978-3-031-48885-6_11"
+hugoblox:
+    ids:
+        doi: "10.1007/978-3-031-48885-6_11"
 ---

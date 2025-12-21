@@ -8,12 +8,13 @@ authors:
   - Christian Schilling,
   - Mark Wetzlinger,
   - Daniel Zhuang
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["conference"]
 publication: "10th International Workshop on Applied Verification of Continuous and Hybrid Systems"
 summary: ""
 abstract: ""
+date: "2023"
 pages: "34--60"
-doi: "10.29007/nl86"
+hugoblox:
+    ids:
+        doi: "10.29007/nl86"
 ---

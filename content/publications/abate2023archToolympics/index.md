@@ -12,12 +12,13 @@ authors:
   - Stefan Mitsch,
   - admin,
   - others
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["book-chapter"]
 publication: "International TOOLympics Challenge"
 summary: ""
 abstract: ""
+date: "2023"
 pages: "1--37"
-doi: "10.1007/978-3-031-67695-6_1"
+hugoblox:
+    ids:
+        doi: "10.1007/978-3-031-67695-6_1"
 ---

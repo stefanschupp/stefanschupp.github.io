@@ -12,10 +12,9 @@ authors:
   - Anne Remke,
   - admin,
   - others
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["journal"]
 publication: ""
 summary: ""
 abstract: ""
+date: "2020"
 ---

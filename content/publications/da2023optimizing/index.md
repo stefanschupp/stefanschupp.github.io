@@ -4,14 +4,15 @@ authors:
   - Carina Da Silva,
   - admin,
   - Anne Remke
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["journal"]
 publication: ""
 summary: ""
 abstract: ""
+date: "2023"
 volume: "33"
 issue: "4"
 pages: "1--27"
-doi: "10.1145/3607197"
+hugoblox:
+    ids:
+        doi: "10.1145/3607197"
 ---

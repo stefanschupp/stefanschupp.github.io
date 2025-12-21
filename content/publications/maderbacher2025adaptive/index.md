@@ -7,12 +7,13 @@ authors:
   - Roderick Bloem,
   - Dejan Nickovic,
   - Bettina Könighofer
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["journal"]
 publication: ""
 summary: ""
 abstract: ""
+date: "2025"
 pages: "1--19"
-doi: "10.1007/s10009-025-00779-0"
+hugoblox:
+    ids:
+        doi: "10.1007/s10009-025-00779-0"
 ---

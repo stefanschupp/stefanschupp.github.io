@@ -4,13 +4,14 @@ authors:
   - admin,
   - Erika Ábrahám,
   - Tristan Ebert
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["journal"]
 publication: ""
 summary: ""
 abstract: ""
+date: "2022"
 volume: "289"
 pages: "104945"
-doi: "10.1016/j.ic.2022.104945"
+hugoblox:
+    ids:
+        doi: "10.1016/j.ic.2022.104945"
 ---

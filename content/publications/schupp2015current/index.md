@@ -8,12 +8,13 @@ authors:
   - Goran Frehse,
   - Sriram Sankaranarayanan,
   - Stefan Kowalewski
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["conference"]
 publication: "International workshop on design, modeling, and evaluation of cyber physical systems"
 summary: ""
 abstract: ""
+date: "2015"
 pages: "8--24"
-doi: "10.1007/978-3-319-25141-7_2"
+hugoblox:
+    ids:
+        doi: "10.1007/978-3-319-25141-7_2"
 ---

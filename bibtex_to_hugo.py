@@ -362,20 +362,24 @@ def create_index_md(entry: Dict[str, str], pub_key: str) -> str:
     pages = entry.get('pages', '')
     doi = entry.get('doi', '')
     url = entry.get('url', '')
+    date = entry.get('date', '')
     
     # Build the markdown file
     md_content = f"""---
 title: '{title}'
 authors:
   {format_authors(authors).strip()}
-date: '{year}-01-01'
-publishDate: '{year}-01-01T00:00:00Z'
 publication_types: ["{publication_type}"]
 publication: "{venue}"
 summary: ""
 abstract: "{abstract}"
 """
     
+    if year:
+        md_content += f'publishDate: "{year}-01-01T00:00:00Z"\n'
+    if date:
+        md_content += f'date: "{date}"\n'
+
     # Add optional fields
     if volume:
         md_content += f'volume: "{volume}"\n'
@@ -384,7 +388,9 @@ abstract: "{abstract}"
     if pages:
         md_content += f'pages: "{pages}"\n'
     if doi:
-        md_content += f'doi: "{doi}"\n'
+        md_content += f'hugoblox:\n\
+    ids:\n\
+        doi: "{doi}"\n'
     if url:
         md_content += f'links:\n  - name: URL\n    url: "{url}"\n'
     

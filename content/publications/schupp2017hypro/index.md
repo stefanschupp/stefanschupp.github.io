@@ -5,12 +5,13 @@ authors:
   - Erika Ábrahám,
   - Ibtissem Ben Makhlouf,
   - Stefan Kowalewski
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["conference"]
 publication: "NASA Formal Methods Symposium"
 summary: ""
 abstract: ""
+date: "2017"
 pages: "288--294"
-doi: "10.1007/978-3-319-57288-8_20"
+hugoblox:
+    ids:
+        doi: "10.1007/978-3-319-57288-8_20"
 ---

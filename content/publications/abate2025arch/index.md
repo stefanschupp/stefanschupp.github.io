@@ -12,11 +12,12 @@ authors:
   - Amy Nejati,
   - Mathis Niehage,
   - others
-date: '-01-01'
-publishDate: '-01-01T00:00:00Z'
 publication_types: ["journal"]
 publication: ""
 summary: ""
 abstract: ""
-doi: "10.29007/lsvc"
+date: "2025"
+hugoblox:
+    ids:
+        doi: "10.29007/lsvc"
 ---
