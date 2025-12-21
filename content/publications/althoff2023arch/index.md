@@ -1,5 +1,5 @@
 ---
-title: Arch-Comp23 Category Report: Continuous and Hybrid Systems with Linear Continuous Dynamics
+title: 'Arch-Comp23 Category Report: Continuous and Hybrid Systems with Linear Continuous Dynamics'
 authors:
   - Matthias Althoff,
   - Marcelo Forets,

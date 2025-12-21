@@ -1,5 +1,5 @@
 ---
-title: On the Applicability of Hybrid Systems Safety Verification Tools from the Automotive Perspective
+title: 'On the Applicability of Hybrid Systems Safety Verification Tools from the Automotive Perspective'
 authors:
   - admin,
   - Erika Ábrahám,

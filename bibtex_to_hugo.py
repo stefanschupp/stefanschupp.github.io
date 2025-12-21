@@ -365,7 +365,7 @@ def create_index_md(entry: Dict[str, str], pub_key: str) -> str:
     
     # Build the markdown file
     md_content = f"""---
-title: {title}
+title: '{title}'
 authors:
   {format_authors(authors).strip()}
 date: '{year}-01-01'

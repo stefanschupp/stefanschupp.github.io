@@ -1,5 +1,5 @@
 ---
-title: Current Challenges in the Verification of Hybrid Systems
+title: 'Current Challenges in the Verification of Hybrid Systems'
 authors:
   - admin,
   - Erika Ábrahám,

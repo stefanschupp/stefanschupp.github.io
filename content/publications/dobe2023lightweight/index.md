@@ -1,5 +1,5 @@
 ---
-title: Lightweight Verification of Hyperproperties
+title: 'Lightweight Verification of Hyperproperties'
 authors:
   - Oyendrila Dobe,
   - admin,

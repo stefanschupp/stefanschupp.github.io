@@ -1,5 +1,5 @@
 ---
-title: Spread the Work: Multi-Threaded Safety Analysis for Hybrid Systems
+title: 'Spread the Work: Multi-Threaded Safety Analysis for Hybrid Systems'
 authors:
   - admin,
   - Erika Ábrahám

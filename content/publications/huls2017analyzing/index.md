@@ -1,5 +1,5 @@
 ---
-title: Analyzing Hybrid Petri Nets with Multiple Stochastic Firings Using Hypro
+title: 'Analyzing Hybrid Petri Nets with Multiple Stochastic Firings Using Hypro'
 authors:
   - Jannik Hüls,
   - admin,

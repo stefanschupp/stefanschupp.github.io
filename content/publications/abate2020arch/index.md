@@ -1,5 +1,5 @@
 ---
-title: Arch-Comp20 Category Report
+title: 'Arch-Comp20 Category Report'
 authors:
   - Alessandro Abate,
   - Henk Blom,

@@ -1,5 +1,5 @@
 ---
-title: Controlling Golog Programs against Mtl Constraints
+title: 'Controlling Golog Programs against Mtl Constraints'
 authors:
   - Till Hofmann,
   - admin

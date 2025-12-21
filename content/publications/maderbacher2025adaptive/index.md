@@ -1,5 +1,5 @@
 ---
-title: An Adaptive, Provable Correct Simplex Architecture
+title: 'An Adaptive, Provable Correct Simplex Architecture'
 authors:
   - Benedikt Maderbacher,
   - admin,

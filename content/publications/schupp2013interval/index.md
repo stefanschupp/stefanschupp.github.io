@@ -1,5 +1,5 @@
 ---
-title: Interval Constraint Propagation in Smt Compliant Decision Procedures
+title: 'Interval Constraint Propagation in Smt Compliant Decision Procedures'
 authors:
   - admin,
   - Erika Ábrahám,

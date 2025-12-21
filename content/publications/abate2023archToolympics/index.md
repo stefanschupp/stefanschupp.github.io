@@ -1,5 +1,5 @@
 ---
-title: The Arch-Comp Friendly Verification Competition for Continuous and Hybrid Systems
+title: 'The Arch-Comp Friendly Verification Competition for Continuous and Hybrid Systems'
 authors:
   - Alessandro Abate,
   - Matthias Althoff,

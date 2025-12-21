@@ -1,5 +1,5 @@
 ---
-title: Maximizing Reachability Probabilities in Rectangular Automata with Random Events
+title: 'Maximizing Reachability Probabilities in Rectangular Automata with Random Events'
 authors:
   - Joanna Delicaris,
   - Anne Remke,

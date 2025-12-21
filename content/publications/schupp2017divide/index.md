@@ -1,5 +1,5 @@
 ---
-title: Divide and Conquer: Variable Set Separation in Hybrid Systems Reachability Analysis
+title: 'Divide and Conquer: Variable Set Separation in Hybrid Systems Reachability Analysis'
 authors:
   - admin,
   - Johanna Nellen,

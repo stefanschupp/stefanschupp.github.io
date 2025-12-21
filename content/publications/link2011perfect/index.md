@@ -1,5 +1,5 @@
 ---
-title: Perfect Difference Sets for Neighbor Discovery: Energy Efficient and Fair
+title: 'Perfect Difference Sets for Neighbor Discovery: Energy Efficient and Fair'
 authors:
   - Jo Agila Bitsch Link,
   - Christoph Wollgarten,

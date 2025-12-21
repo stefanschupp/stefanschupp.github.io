@@ -1,5 +1,5 @@
 ---
-title: Recent Developments in Theory and Tool Support for Hybrid Systems Verification with Hypro
+title: 'Recent Developments in Theory and Tool Support for Hybrid Systems Verification with Hypro'
 authors:
   - admin,
   - Erika Ábrahám,

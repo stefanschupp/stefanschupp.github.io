@@ -1,5 +1,5 @@
 ---
-title: Provable Correct and Adaptive Simplex Architecture for Bounded-Liveness Properties
+title: 'Provable Correct and Adaptive Simplex Architecture for Bounded-Liveness Properties'
 authors:
   - Benedikt Maderbacher,
   - admin,

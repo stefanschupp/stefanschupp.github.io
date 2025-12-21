@@ -1,5 +1,5 @@
 ---
-title: State Set Representations and Their Usage in the Reachability Analysis of Hybrid Systems
+title: 'State Set Representations and Their Usage in the Reachability Analysis of Hybrid Systems'
 authors:
   - admin
 date: '-01-01'

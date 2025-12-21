@@ -1,5 +1,5 @@
 ---
-title: Optimizing Reachability Probabilities for a Restricted Class of Stochastic Hybrid Automata Via Flowpipe-Construction
+title: 'Optimizing Reachability Probabilities for a Restricted Class of Stochastic Hybrid Automata Via Flowpipe-Construction'
 authors:
   - Carina Pilch,
   - admin,

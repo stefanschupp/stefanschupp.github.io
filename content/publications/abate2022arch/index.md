@@ -1,5 +1,5 @@
 ---
-title: Arch-Comp22 Stochastic Models
+title: 'Arch-Comp22 Stochastic Models'
 authors:
   - Alessandro Abate,
   - Henk Blom,

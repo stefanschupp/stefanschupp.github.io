@@ -1,5 +1,5 @@
 ---
-title: Techniques and Tools for Hybrid Systems Reachability Analysis
+title: 'Techniques and Tools for Hybrid Systems Reachability Analysis'
 authors:
   - Erika Ábrahám,
   - Johanna Nellen,

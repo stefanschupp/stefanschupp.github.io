@@ -1,5 +1,5 @@
 ---
-title: Context-Dependent Reachability Analysis for Hybrid Systems
+title: 'Context-Dependent Reachability Analysis for Hybrid Systems'
 authors:
   - admin,
   - Justin Winkens,

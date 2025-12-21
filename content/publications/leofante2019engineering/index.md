@@ -1,5 +1,5 @@
 ---
-title: Engineering Controllers for Swarm Robotics Via Reachability Analysis in Hybrid Systems.
+title: 'Engineering Controllers for Swarm Robotics Via Reachability Analysis in Hybrid Systems.'
 authors:
   - Francesco Leofante,
   - admin,

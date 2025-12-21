@@ -1,5 +1,5 @@
 ---
-title: Controller Verification Meets Controller Code: A Case Study
+title: 'Controller Verification Meets Controller Code: A Case Study'
 authors:
   - Felix Freiberger,
   - admin,

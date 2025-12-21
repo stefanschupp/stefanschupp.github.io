@@ -1,5 +1,5 @@
 ---
-title: Tacos: A Tool for Mtl Controller Synthesis
+title: 'Tacos: A Tool for Mtl Controller Synthesis'
 authors:
   - Till Hofmann,
   - admin

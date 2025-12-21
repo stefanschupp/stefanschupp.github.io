@@ -1,5 +1,5 @@
 ---
-title: Realyst: A C++ Tool for Optimizing Reachability Probabilities in Stochastic Hybrid Systems
+title: 'Realyst: A C++ Tool for Optimizing Reachability Probabilities in Stochastic Hybrid Systems'
 authors:
   - Joanna Delicaris,
   - Jonas Stübbe,

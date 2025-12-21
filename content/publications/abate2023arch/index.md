@@ -1,5 +1,5 @@
 ---
-title: Arch-Comp23 Category Report: Stochastic Models
+title: 'Arch-Comp23 Category Report: Stochastic Models'
 authors:
   - Alessandro Abate,
   - Henk Blom,

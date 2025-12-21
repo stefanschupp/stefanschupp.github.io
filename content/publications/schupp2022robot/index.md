@@ -1,5 +1,5 @@
 ---
-title: Robot Swarms As Hybrid Systems: Modelling and Verification
+title: 'Robot Swarms As Hybrid Systems: Modelling and Verification'
 authors:
   - admin,
   - Francesco Leofante,

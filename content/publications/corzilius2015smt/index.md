@@ -1,5 +1,5 @@
 ---
-title: Smt-Rat: An Open Source C++ Toolbox for Strategic and Parallel Smt Solving
+title: 'Smt-Rat: An Open Source C++ Toolbox for Strategic and Parallel Smt Solving'
 authors:
   - Florian Corzilius,
   - Gereon Kremer,

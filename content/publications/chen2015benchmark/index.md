@@ -1,5 +1,5 @@
 ---
-title: A Benchmark Suite for Hybrid Systems Reachability Analysis
+title: 'A Benchmark Suite for Hybrid Systems Reachability Analysis'
 authors:
   - Xin Chen,
   - admin,

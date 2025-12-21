@@ -1,5 +1,5 @@
 ---
-title: Maximizing Reachability Probabilities in Rectangular Automata with Random Clocks
+title: 'Maximizing Reachability Probabilities in Rectangular Automata with Random Clocks'
 authors:
   - Joanna Delicaris,
   - admin,

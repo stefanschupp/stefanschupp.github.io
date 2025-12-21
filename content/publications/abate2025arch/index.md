@@ -1,5 +1,5 @@
 ---
-title: Arch-Comp25 Category Report: Stochastic Models
+title: 'Arch-Comp25 Category Report: Stochastic Models'
 authors:
   - Alessandro Abate,
   - Omid Akbarzadeh,
