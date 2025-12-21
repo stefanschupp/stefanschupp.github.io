@@ -1,8 +1,8 @@
 ---
 title: 'Recent Developments in Theory and Tool Support for Hybrid Systems Verification with Hypro'
 authors:
-  - admin,
-  - Erika Ábrahám,
+  - admin
+  - Erika Ábrahám
   - Tristan Ebert
 publication_types: ["journal"]
 publication: ""

@@ -1,9 +1,9 @@
 ---
 title: 'Analyzing Hybrid Petri Nets with Multiple Stochastic Firings Using Hypro'
 authors:
-  - Jannik Hüls,
-  - admin,
-  - Anne Remke,
+  - Jannik Hüls
+  - admin
+  - Anne Remke
   - Erika Ábrahám
 publication_types: ["conference"]
 publication: "Proceedings of the 11th EAI International Conference on Performance Evaluation Methodologies and Tools"

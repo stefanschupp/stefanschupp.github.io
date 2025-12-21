@@ -1,8 +1,8 @@
 ---
 title: 'Optimizing Reachability Probabilities for a Restricted Class of Stochastic Hybrid Automata Via Flowpipe Construction'
 authors:
-  - Carina Da Silva,
-  - admin,
+  - Carina Da Silva
+  - admin
   - Anne Remke
 publication_types: ["journal"]
 publication: ""

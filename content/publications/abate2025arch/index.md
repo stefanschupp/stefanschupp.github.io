@@ -1,16 +1,16 @@
 ---
 title: 'Arch-Comp25 Category Report: Stochastic Models'
 authors:
-  - Alessandro Abate,
-  - Omid Akbarzadeh,
-  - Henk AP Blom,
-  - Sofie Haesaert,
-  - Sina Hassani,
-  - Abolfazl Lavaei,
-  - Frederik Baymler Mathiesen,
-  - Rahul Misra,
-  - Amy Nejati,
-  - Mathis Niehage,
+  - Alessandro Abate
+  - Omid Akbarzadeh
+  - Henk AP Blom
+  - Sofie Haesaert
+  - Sina Hassani
+  - Abolfazl Lavaei
+  - Frederik Baymler Mathiesen
+  - Rahul Misra
+  - Amy Nejati
+  - Mathis Niehage
   - others
 publication_types: ["journal"]
 publication: ""

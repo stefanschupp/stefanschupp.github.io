@@ -1,8 +1,8 @@
 ---
 title: 'Optimizing Reachability Probabilities for a Restricted Class of Stochastic Hybrid Automata Via Flowpipe-Construction'
 authors:
-  - Carina Pilch,
-  - admin,
+  - Carina Pilch
+  - admin
   - Anne Remke
 publication_types: ["conference"]
 publication: "International Conference on Quantitative Evaluation of Systems"

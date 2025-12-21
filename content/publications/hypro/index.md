@@ -4,7 +4,7 @@
 title: "HyPro: A C++ Library of State Set Representations for Hybrid Systems Reachability Analysis"
 authors: 
   - admin 
-  - Erika Abraham
+  - Erika Ábrahám
   - Ibtissem Ben Makhlouf
   - Stefan Kowalewski
 date: 2017-04-09T21:20:33+01:00

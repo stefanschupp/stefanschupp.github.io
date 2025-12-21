@@ -1,7 +1,7 @@
 ---
 title: 'Spread the Work: Multi-Threaded Safety Analysis for Hybrid Systems'
 authors:
-  - admin,
+  - admin
   - Erika Ábrahám
 publication_types: ["conference"]
 publication: "International Conference on Software Engineering and Formal Methods"

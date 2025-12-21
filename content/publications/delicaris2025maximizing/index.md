@@ -1,10 +1,10 @@
 ---
 title: 'Maximizing Reachability Probabilities in Rectangular Automata with Random Events'
 authors:
-  - Joanna Delicaris,
-  - Anne Remke,
-  - Erika Ábrahám,
-  - admin,
+  - Joanna Delicaris
+  - Anne Remke
+  - Erika Ábrahám
+  - admin
   - Jonas Stübbe
 publication_types: ["journal"]
 publication: ""

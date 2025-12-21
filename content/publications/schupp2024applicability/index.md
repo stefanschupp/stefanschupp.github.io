@@ -1,10 +1,10 @@
 ---
 title: 'On the Applicability of Hybrid Systems Safety Verification Tools from the Automotive Perspective'
 authors:
-  - admin,
-  - Erika Ábrahám,
-  - Md Tawhid Bin Waez,
-  - Thomas Rambow,
+  - admin
+  - Erika Ábrahám
+  - Md Tawhid Bin Waez
+  - Thomas Rambow
   - Zeng Qiu
 publication_types: ["journal"]
 publication: ""

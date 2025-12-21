@@ -1,8 +1,8 @@
 ---
 title: 'Decidable Reasoning about Time in Finite-Domain Situation Calculus Theories'
 authors:
-  - Till Hofmann,
-  - admin,
+  - Till Hofmann
+  - admin
   - Gerhard Lakemeyer
 publication_types: ["journal"]
 publication: ""

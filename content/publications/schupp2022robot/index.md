@@ -1,10 +1,10 @@
 ---
 title: 'Robot Swarms As Hybrid Systems: Modelling and Verification'
 authors:
-  - admin,
-  - Francesco Leofante,
-  - Leander Behr,
-  - Erika Ábrahám,
+  - admin
+  - Francesco Leofante
+  - Leander Behr
+  - Erika Ábrahám
   - Armando Taccella
 publication_types: ["journal"]
 publication: ""

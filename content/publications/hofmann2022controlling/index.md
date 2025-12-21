@@ -1,7 +1,7 @@
 ---
 title: 'Controlling Golog Programs against Mtl Constraints'
 authors:
-  - Till Hofmann,
+  - Till Hofmann
   - admin
 publication_types: ["journal"]
 publication: ""

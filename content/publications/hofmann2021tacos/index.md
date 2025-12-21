@@ -1,7 +1,7 @@
 ---
 title: 'Tacos: A Tool for Mtl Controller Synthesis'
 authors:
-  - Till Hofmann,
+  - Till Hofmann
   - admin
 publication_types: ["conference"]
 publication: "International Conference on Software Engineering and Formal Methods"

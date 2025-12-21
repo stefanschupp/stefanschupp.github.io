@@ -1,11 +1,11 @@
 ---
 title: 'An Adaptive, Provable Correct Simplex Architecture'
 authors:
-  - Benedikt Maderbacher,
-  - admin,
-  - Ezio Bartocci,
-  - Roderick Bloem,
-  - Dejan Nickovic,
+  - Benedikt Maderbacher
+  - admin
+  - Ezio Bartocci
+  - Roderick Bloem
+  - Dejan Nickovic
   - Bettina Könighofer
 publication_types: ["journal"]
 publication: ""

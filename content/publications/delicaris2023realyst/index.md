@@ -1,9 +1,9 @@
 ---
 title: 'Realyst: A C++ Tool for Optimizing Reachability Probabilities in Stochastic Hybrid Systems'
 authors:
-  - Joanna Delicaris,
-  - Jonas Stübbe,
-  - admin,
+  - Joanna Delicaris
+  - Jonas Stübbe
+  - admin
   - Anne Remke
 publication_types: ["conference"]
 publication: "EAI International Conference on Performance Evaluation Methodologies and Tools"

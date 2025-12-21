@@ -1,9 +1,9 @@
 ---
 title: 'Engineering Controllers for Swarm Robotics Via Reachability Analysis in Hybrid Systems.'
 authors:
-  - Francesco Leofante,
-  - admin,
-  - Erika Ábrahám,
+  - Francesco Leofante
+  - admin
+  - Erika Ábrahám
   - Armando Tacchella
 publication_types: ["conference"]
 publication: "ECMS"

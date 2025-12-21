@@ -322,7 +322,7 @@ def format_authors(authors_str: str) -> str:
     authors = [author if author.lower() != "stefan schupp" else "admin" for author in authors]
 
     # Format as markdown list
-    return '\n' + ',\n'.join(f'  - {author}' for author in authors) + '\n'
+    return '\n' + '\n'.join(f'  - {author}' for author in authors) + '\n'
 
 
 def create_index_md(entry: Dict[str, str], pub_key: str) -> str:

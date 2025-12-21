@@ -1,9 +1,9 @@
 ---
 title: 'Hypro: A C++ Library of State Set Representations for Hybrid Systems Reachability Analysis'
 authors:
-  - admin,
-  - Erika Ábrahám,
-  - Ibtissem Ben Makhlouf,
+  - admin
+  - Erika Ábrahám
+  - Ibtissem Ben Makhlouf
   - Stefan Kowalewski
 publication_types: ["conference"]
 publication: "NASA Formal Methods Symposium"

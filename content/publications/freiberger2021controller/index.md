@@ -1,9 +1,9 @@
 ---
 title: 'Controller Verification Meets Controller Code: A Case Study'
 authors:
-  - Felix Freiberger,
-  - admin,
-  - Holger Hermanns,
+  - Felix Freiberger
+  - admin
+  - Holger Hermanns
   - Erika Ábrahám
 publication_types: ["conference"]
 publication: "Proceedings of the 19th ACM-IEEE International Conference on Formal Methods and Models for System Design"

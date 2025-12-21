@@ -1,7 +1,7 @@
 ---
 title: 'Efficient Dynamic Error Reduction for Hybrid Systems Reachability Analysis'
 authors:
-  - admin,
+  - admin
   - Erika Ábrahám
 publication_types: ["conference"]
 publication: "International Conference on Tools and Algorithms for the Construction and Analysis of Systems"

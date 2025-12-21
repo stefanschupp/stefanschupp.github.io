@@ -1,16 +1,16 @@
 ---
 title: 'Arch-Comp23 Category Report: Stochastic Models'
 authors:
-  - Alessandro Abate,
-  - Henk Blom,
-  - Nathalie Cauchi,
-  - Joanna Delicaris,
-  - Sofie Haesaert,
-  - Birgit van Huijgevoort,
-  - Abolfazl Lavaei,
-  - Anne Remke,
-  - Oliver Schön,
-  - admin,
+  - Alessandro Abate
+  - Henk Blom
+  - Nathalie Cauchi
+  - Joanna Delicaris
+  - Sofie Haesaert
+  - Birgit van Huijgevoort
+  - Abolfazl Lavaei
+  - Anne Remke
+  - Oliver Schön
+  - admin
   - others
 publication_types: ["conference"]
 publication: "10th International Workshop on Applied Verification of Continuous and Hybrid Systems, ARCH 2023"

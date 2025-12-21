@@ -1,10 +1,10 @@
 ---
 title: 'Smt-Rat: An Open Source C++ Toolbox for Strategic and Parallel Smt Solving'
 authors:
-  - Florian Corzilius,
-  - Gereon Kremer,
-  - Sebastian Junges,
-  - admin,
+  - Florian Corzilius
+  - Gereon Kremer
+  - Sebastian Junges
+  - admin
   - Erika Ábrahám
 publication_types: ["conference"]
 publication: "International conference on theory and applications of satisfiability testing"

@@ -1,9 +1,9 @@
 ---
 title: 'Maximizing Reachability Probabilities in Rectangular Automata with Random Clocks'
 authors:
-  - Joanna Delicaris,
-  - admin,
-  - Erika Ábrahám,
+  - Joanna Delicaris
+  - admin
+  - Erika Ábrahám
   - Anne Remke
 publication_types: ["conference"]
 publication: "International Symposium on Theoretical Aspects of Software Engineering"

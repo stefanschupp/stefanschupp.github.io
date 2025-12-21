@@ -1,7 +1,7 @@
 ---
 title: 'Controlling Timed Automata against Mtl Specifications with Tacos'
 authors:
-  - Till Hofmann,
+  - Till Hofmann
   - admin
 publication_types: ["journal"]
 publication: ""

@@ -1,8 +1,8 @@
 ---
 title: 'Context-Dependent Reachability Analysis for Hybrid Systems'
 authors:
-  - admin,
-  - Justin Winkens,
+  - admin
+  - Justin Winkens
   - Erika Ábrahám
 publication_types: ["book-chapter"]
 publication: "Reuse in Intelligent Systems"

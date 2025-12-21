@@ -1,12 +1,12 @@
 ---
 title: 'Current Challenges in the Verification of Hybrid Systems'
 authors:
-  - admin,
-  - Erika Ábrahám,
-  - Xin Chen,
-  - Ibtissem Ben Makhlouf,
-  - Goran Frehse,
-  - Sriram Sankaranarayanan,
+  - admin
+  - Erika Ábrahám
+  - Xin Chen
+  - Ibtissem Ben Makhlouf
+  - Goran Frehse
+  - Sriram Sankaranarayanan
   - Stefan Kowalewski
 publication_types: ["conference"]
 publication: "International workshop on design, modeling, and evaluation of cyber physical systems"

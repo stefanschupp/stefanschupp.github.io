@@ -1,11 +1,11 @@
 ---
 title: 'A Benchmark Suite for Hybrid Systems Reachability Analysis'
 authors:
-  - Xin Chen,
-  - admin,
-  - Ibtissem Ben Makhlouf,
-  - Erika Ábrahám,
-  - Goran Frehse,
+  - Xin Chen
+  - admin
+  - Ibtissem Ben Makhlouf
+  - Erika Ábrahám
+  - Goran Frehse
   - Stefan Kowalewski
 publication_types: ["conference"]
 publication: "NASA Formal Methods Symposium"
