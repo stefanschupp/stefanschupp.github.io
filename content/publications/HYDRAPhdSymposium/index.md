@@ -21,7 +21,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "HyDRA is a tool for reachability analysis of hybrid systems. This paper presents HyDRA as a playground for the development and testing of different hybrid systems reachability analysis methods, allowing researchers to implement, compare, and evaluate various verification techniques."
 
 # Summary. An optional shortened abstract.
 summary: ""

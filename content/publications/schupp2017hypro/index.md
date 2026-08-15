@@ -23,10 +23,7 @@ publication_types: ["Conference paper"]
 publication: "NASA Formal Methods Symposium"
 publication_short: "NFM"
 
-abstract: "In this tool paper we introduce HyPro, our free and open-
-source C++ programming library, which offers implementations for the
-most prominent state set representations used by flowpipe-construction-
-based reachability analysis techniques for hybrid systems."
+abstract: "In this tool paper we introduce HyPro, our free and open-source C++ programming library, which offers implementations for the most prominent state set representations used by flowpipe-construction-based reachability analysis techniques for hybrid systems."
 
 # Summary. An optional shortened abstract.
 summary: ""

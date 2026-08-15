@@ -16,7 +16,7 @@ publication: "Cyber physical systems : design,
                     2015 ; proceedings / Christian Berger
                     ... (eds.)"
 summary: ""
-abstract: ""
+abstract: "Latest developments brought interesting theoretical results and powerful tools for the reachability analysis of hybrid systems. However, there are still challenging problems to be solved in order to make those technologies applicable to large-scale applications in industrial context. To support this development, in this paper we give a brief overview of available algorithms and tools, and point out some of their individual characteristics regarding various properties which are crucial for the verification of hybrid systems."
 publishDate: "2015-01-01T00:00:00Z"
 year: "2015"
 date: "2015-10-08"

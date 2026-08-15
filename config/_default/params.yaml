@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''
+    description: 'My professional portfolio site including interests, projects and academic publications.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: '<meta name="google-site-verification" content="oXDghdzsHyQ_x_jqKruLywI3OU454XQZr8__powvrII" />'
     baidu: ''
 
 # Site header

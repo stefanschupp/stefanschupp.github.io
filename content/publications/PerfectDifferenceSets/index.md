@@ -22,7 +22,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "We present an energy efficient neighbor discovery framework that enables Linux and TinyOS based systems to discover and connect to neighbors via IEEE 802.11 and IEEE 802.15.4, which are only available sporadically. Using quorum schemes, we schedule on and off times of the wireless transmitters, to guarantee mutual discovery with minimum power given a specific latency requirement. Neighbor discovery is fundamental to intermittently connected networks, such as disruption and delay tolerant networks and wireless sensor networks."
 
 # Summary. An optional shortened abstract.
 summary: ""

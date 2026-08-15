@@ -21,20 +21,7 @@ publication_types: ["Conference paper"]
 publication: ""
 publication_short: ""
 
-abstract: "To decide whether a set of states is reachable in a hybrid sys-
-tem, over-approximative symbolic successor computations can be used,
-where the symbolic representation of state sets as well as the successor
-computations have several parameters which determine the efficiency
-and the precision of the computations. Naturally, faster computations
-come with less precision and more spurious counterexamples. To remove
-a spurious counterexample, the only possibility offered by current tools
-is to reduce the error by re-starting the complete search with different
-parameters. In this paper we propose a CEGAR approach that takes as
-input a user-defined ordered list of search configurations, which are used
-to dynamically refine the search tree along potentially spurious coun-
-terexamples. Dedicated datastructures allow to extract as much useful
-information as possible from previous computations in order to reduce
-the refinement overhead."
+abstract: "To decide whether a set of states is reachable in a hybrid system, over-approximative symbolic successor computations can be used, where the symbolic representation of state sets as well as the successor computations have several parameters which determine the efficiency and the precision of the computations. Naturally, faster computations come with less precision and more spurious counterexamples. To remove a spurious counterexample, the only possibility offered by current tools is to reduce the error by re-starting the complete search with different parameters. In this paper we propose a CEGAR approach that takes as input a user-defined ordered list of search configurations, which are used to dynamically refine the search tree along potentially spurious counterexamples. Dedicated datastructures allow to extract as much useful information as possible from previous computations in order to reduce the refinement overhead."
 
 # Summary. An optional shortened abstract.
 summary: ""

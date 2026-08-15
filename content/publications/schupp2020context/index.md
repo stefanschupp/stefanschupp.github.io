@@ -22,7 +22,7 @@ publication_types: ["Conference paper"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "Verification tools for hybrid systems with mixed discrete-continuous behavior are becoming more and more powerful, but their applicability to high-dimensional models is still restricted. In this paper we propose an improvement for a certain class of verification techniques based on flowpipe construction. In previous work we presented a method that allows to decompose the state space of a hybrid system, such that the analysis can be done in sub-spaces of lower dimensions, instead of the global high-dimensional space. In this paper we present an approach to construct such decompositions automatically, to analyze the dynamics in each of the sub-spaces and to select for each sub-space an individual well-suited verification method. Our experimental evaluation demonstrates the general applicability of our approach and shows a remarkable speedup on decomposable systems with heterogeneous dynamics."
 
 # Summary. An optional shortened abstract.
 summary: ""
